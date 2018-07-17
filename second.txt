@@ -1,4 +1,5 @@
 Reference
+-------------------------------------
 Quick reference guides: GitHub Cheat Sheet (PDF)  |  Visual Git Cheat Sheet (SVG | PNG)
 
 Setup and Config

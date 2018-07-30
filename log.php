@@ -1,1 +1,6 @@
-<?php header( 'Location: /login.htm' ) ; ?>
+
+<?php
+// This results in an error.
+// The output above is before the header() call
+header('Location: http://www.example.com/');
+?>

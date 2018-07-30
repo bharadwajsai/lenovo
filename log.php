@@ -1,1 +1,1 @@
-<?php include_once("login.htm") ?>
+<?php header( 'Location: /login.htm' ) ; ?>
